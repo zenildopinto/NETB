@@ -13,4 +13,9 @@ public class Start {
     public static void main(String[] args) {
         System.out.println("Ate aqui ok");
     }
+    
+    public void function (){
+        Secand aa = new Secand();
+        System.out.println(aa.minha());
+    }
 }
